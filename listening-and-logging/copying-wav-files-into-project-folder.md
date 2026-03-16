@@ -15,4 +15,4 @@ Before editing the audio you captured with your **Zoom H2n** recorder, you'll co
 7. In the **Stereo** folder, double-click **FOLDER01** to open it. All of your WAV files are in this folder. Your WAV files will have the following name format: **ZOOM0001.WAV**. **Note**: The date and time stamps for the WAV files will not be correct.
 8. Press **Command** **A** (on keyboard) to select all of the WAV files in **FOLDER01**. Copy all of the WAV files into your project folder. **Note**: You may need to [open multiple Finder windows](https://jjloomis.gitbooks.io/file-and-folder-management/content/opening-multiple-finder-windows.html) and [navigate to your project folder](https://jjloomis.gitbooks.io/file-and-folder-management/content/navigating-folder-tree.html) in order to do this.
 
-![Copying WAV files from a Zoom H2n into your project folder.](../.gitbook/assets/copying-wav-files-to-project-folder.png)
+<figure><img src="../.gitbook/assets/copying-wav-files-to-project-folder.png" alt="Copying WAV files from a Zoom H2n into a project folder"><figcaption><p>Copying WAV files from a Zoom H2n into a project folder.</p></figcaption></figure>

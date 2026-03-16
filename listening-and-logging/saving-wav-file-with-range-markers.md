@@ -4,4 +4,4 @@ After creating your **Range Markers**, you’ll need to save your work. This wil
 
 * In the waveform editor, go to **File** on the menu bar and choose **Save**. Your WAV file will save to its original location. The **Range Markers** are now part of the WAV file.
 
-![Saving a WAV file with Range Markers.](../.gitbook/assets/saving-a-wav-file-with-range-markers.png)
+<figure><img src="../.gitbook/assets/saving-a-wav-file-with-range-markers.png" alt="Saving a WAV file with Range Markers"><figcaption><p>Saving a WAV file with Range Markers.</p></figcaption></figure>

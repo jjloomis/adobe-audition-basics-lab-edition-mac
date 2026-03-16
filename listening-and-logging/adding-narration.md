@@ -13,4 +13,4 @@ If you’re working on a project that requires narration, you can create sound b
 7. [Switch back to your Multitrack Session](../editing/switching-between-waveform-editor-and-multitrack-session.md).
 8. [Add your sound bite WAV files to tracks in your Multitrack Session](../editing/adding-sound-bite-wav-files-to-tracks.md).
 
-![Adding narration.](../.gitbook/assets/adding-narration.png)
+<figure><img src="../.gitbook/assets/adding-narration.png" alt="Adding a narration WAV file to an Adobe Audition project"><figcaption><p>Adding a narration WAV file to an Adobe Audition project.</p></figcaption></figure>

@@ -4,4 +4,4 @@
 2. Click **Go** on the menu bar and select **Applications**.
 3. In **Applications**, open **Adobe Audition CC 2021**.&#x20;
 
-![Opening Adobe Audition CC 2021.](../.gitbook/assets/opening-audition.png)
+<figure><img src="../.gitbook/assets/opening-audition.png" alt="Opening Adobe Audition"><figcaption><p>Opening Adobe Audtion.</p></figcaption></figure>
