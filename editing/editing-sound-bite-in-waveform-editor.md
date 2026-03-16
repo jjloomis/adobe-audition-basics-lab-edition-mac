@@ -4,4 +4,4 @@ After you’ve created a logical order for your sound bites in the multitrack se
 
 * In an audio track, double-click the sound bite you want to edit. Audition will open the sound bite in the waveform editor. **Note**: The edits you make in the waveform editor are destructive. These edits will change the sound bite WAV files in your project folder.
 
-![Editing a sound bite in the Waveform Editor.](../.gitbook/assets/editing-sound-bite-in-waveform-editor.png)
+<figure><img src="../.gitbook/assets/editing-sound-bite-in-waveform-editor.png" alt="Editing a sound bite in the Waveform Editor"><figcaption><p>Editing a sound bite in the Waveform Editor.</p></figcaption></figure>
